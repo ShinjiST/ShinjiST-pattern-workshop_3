@@ -8,6 +8,9 @@
 ### Виконане завдання  
 Я створив фрагмент геометричного візерунку, використовуючи прості фігури та їх властивості у Figma.  
 
+## Посилання на фігма
+https://www.figma.com/design/pBmejyhmKP2ZtDRwQPIlUP/18.03.2025-%E2%84%963?node-id=0-1&p=f&t=wRVDJrLEQGCfwkPI-0
+
 ### Приклад візерунку  
 <p align="center">
   <img src="images/Pattern.png" height="400px">
