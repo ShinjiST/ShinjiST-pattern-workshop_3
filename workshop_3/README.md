@@ -9,7 +9,7 @@
 Я створив фрагмент геометричного візерунку, використовуючи прості фігури та їх властивості у Figma.  
 
 ## Посилання на фігма
-https://www.figma.com/design/pBmejyhmKP2ZtDRwQPIlUP/18.03.2025-%E2%84%963?node-id=0-1&p=f&t=wRVDJrLEQGCfwkPI-0
+https://www.figma.com/design/F71miyCIRwx1c0s0KxKvDm/18.03.2025-%E2%84%964?t=722PrSxaUE1A0m1B-0
 
 ### Приклад візерунку  
 <p align="center">
